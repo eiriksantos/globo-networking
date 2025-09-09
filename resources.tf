@@ -20,6 +20,7 @@ locals {
     "Environment" = var.environment
     "ManagedBy"   = "Terraform"
     "BillingCode" = var.billing_code
+    "Owner"       = "esantos"
   }
 }
 
